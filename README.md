@@ -1,7 +1,7 @@
 # Dropdown-Selected-Values-and-Text-Using-Jquery
 # User can Get Text() and Val() and User Can do  Selected dropdown from multiples values
 
-<code>
+'''
  var defaultVal = "US";
 var val =$("#Country option:selected").val();
 
@@ -19,4 +19,4 @@ var text =$("#Country option:selected").text();
              }
          });
          
-</code>
+'''
